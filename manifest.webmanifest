@@ -1,0 +1,10 @@
+{
+  "name": "あそぼう",
+  "short_name": "あそぼう",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff8e7",
+  "theme_color": "#fff8e7",
+  "lang": "ja"
+}
